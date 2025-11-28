@@ -17,4 +17,5 @@ module.exports.postPlaceOrder=async(req,res)=>{
         }
     })
     console.log(response);
+    console.log("Hi whats uppp");
 }
